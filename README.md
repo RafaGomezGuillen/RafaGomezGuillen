@@ -21,7 +21,7 @@ I graduated in 2024 from [CIFP César Manrique](https://www.linkedin.com/school/
 
 ## Main Projects
 
-### [whatsapp-ai-assistant](https://github.com/RafaGomezGuillen/whatsapp-ai-assistant)
+### [Whatsapp AI Assistant](https://github.com/RafaGomezGuillen/whatsapp-ai-assistant)
 
 Bot integrates GPT functionality with WhatsApp, allowing for various features such as text-to-speech, image generation, and more.
 
